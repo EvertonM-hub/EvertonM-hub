@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Everton,sou formado em Marketing, atualmente em transição de carreira para desenvolvedor frontend, atulamente desenvolvendo projetos em: 💻 
+Eu sou o Everton, sou formado em Marketing, atualmente em transição de carreira para desenvolvedor de softwere, no momento me aperfeiçoando nas tecnologias de frontend e backend,  estou desenvolvendo alguns projetos em: 💻 
 <br>
 <br>
 
