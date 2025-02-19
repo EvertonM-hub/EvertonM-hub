@@ -9,7 +9,7 @@ Eu sou o Everton, sou formado em Marketing, atualmente em transição de carreir
 ![image](https://github.com/user-attachments/assets/beeb9c70-b23a-4614-946a-aa9948a3bdaa)
 
 
-iIniciando o aprendizado em:
+Iniciando o aprendizado em:
 
 ![image](https://github.com/user-attachments/assets/8b40c971-620d-443f-b933-85e3a31b64bd)
 
