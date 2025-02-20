@@ -20,3 +20,7 @@ Iniciando o aprendizado em:
 
 
 Faço parte dos alunos do DevClub, professor Rodolfo Mori 🚀
+<br>
+<p>Você pode entrar em contato atravez do link abaixo:<p>
+<img src="https://img.shields.io/badge/WhatsApp-11940132292?style=for-the-badge&logo=whatsapp&logoColor=white">
+
