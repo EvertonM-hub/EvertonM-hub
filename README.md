@@ -24,5 +24,7 @@ Faço parte dos alunos do DevClub, professor Rodolfo Mori 🚀
 <p>Você pode entrar em contato atravez do link abaixo:<p>
 <a href="https://wa.me/+5511940132292"><img src="https://img.shields.io/badge/WhatsApp-https:5511940132292?style=for-the-badge&logo=whatsapp&logoColor=white">
   <br>
+  <a href="evertonmoreira19@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <br>
 
 
