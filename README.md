@@ -17,7 +17,7 @@ Iniciando o aprendizado em:
 <br>
 <br>
 
-
+img src= https://github-readme-stats.vercel.app/api/top-langs/?username={EvertonM-hub}&theme=blue-green
 
 Faço parte dos alunos do DevClub, professor Rodolfo Mori 🚀
 <br>
