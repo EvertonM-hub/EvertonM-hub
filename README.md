@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 😃
 
 Eu sou o Everton, sou formado em Marketing, atualmente em transição de carreira para desenvolvedor de softwere, no momento me aperfeiçoando nas tecnologias de frontend e backend,  estou desenvolvendo alguns projetos em: 💻 
 <br>
@@ -16,6 +16,10 @@ Iniciando o aprendizado em:
 ![image](https://github.com/user-attachments/assets/774625fc-bec6-4ae7-9cca-e43cc6b4cc07)
 <br>
 <br>
+
+[![EvertonM stats](https://github-readme-stats.vercel.app/api?username=EvertonM-hub)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonM-hub)](https://github.com/anuraghazra/github-readme-stats)
 
 Faço parte dos alunos do DevClub, professor Rodolfo Mori 🚀
 <br>
