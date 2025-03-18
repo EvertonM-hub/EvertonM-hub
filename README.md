@@ -17,8 +17,7 @@ Iniciando o aprendizado em:
 <br>
 <br>
 
-[![EvertonM stats](https://github-readme-stats.vercel.app/api?username=EvertonM-hub)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonM-hub)](https://github.com/anuraghazra/github-readme-stats)
 
 Faço parte dos alunos do DevClub, professor Rodolfo Mori 🚀
