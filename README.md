@@ -15,7 +15,8 @@ Iniciando o aprendizado em:
 
 ![image](https://github.com/user-attachments/assets/774625fc-bec6-4ae7-9cca-e43cc6b4cc07)
 
-JAVA
+JAVA 🚀
+<br>
 SPRINGBOOT
 <br>
 <br>
@@ -23,7 +24,7 @@ SPRINGBOOT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonM-hub)](https://github.com/anuraghazra/github-readme-stats)
 
-Faço parte dos alunos do DevClub, professor Rodolfo Mori 🚀
+ 
 <br>
 <p>Você pode entrar em contato atravez dos links abaixo:<p>
 <a href="https://wa.me/+5511940132292"><img src="https://img.shields.io/badge/WhatsApp-https:5511940132292?style=for-the-badge&logo=whatsapp&logoColor=white">
